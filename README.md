@@ -42,9 +42,6 @@
   <a href="https://github.com/roboll/helmfile" target="_blank" rel="noreferrer">
     <img src="https://helm.sh/img/helm.svg" alt="Helmfile" width="40" height="40"/>
   </a>
-  <a href="https://github.com/bitnami-labs/sealed-secrets" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3902528?s=200&v=4" alt="Kubeseal" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
