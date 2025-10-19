@@ -33,6 +33,18 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/roboll/helmfile" target="_blank" rel="noreferrer">
+    <img src="https://helm.sh/img/helm.svg" alt="Helmfile" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/bitnami-labs/sealed-secrets" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/3902528?s=200&v=4" alt="Kubeseal" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -63,6 +75,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+
+  <!-- 📡 APIs -->
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="Swagger" width="40" height="40"/>
+  </a>
+  <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/tools/soapui-icon.svg" alt="SOAP" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -70,6 +90,7 @@
 ### 💼 About Me
 - 🌱 Currently working with **Kubernetes**, **GCP**, and **AWS** to build scalable cloud-native systems.  
 - 🛠️ Experienced in **DevOps**, **CI/CD**, **containerization**, and **microservices architecture**.  
+- ⚡ Skilled in **Helm**, **Helmfile**, **ArgoCD**, **Kubeseal**, and modern GitOps workflows.  
 - 👯 Open to collaborating on **open-source** and **infrastructure automation** projects.  
 - 📫 How to reach me: **huynhvanvong2002@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/huynhvanvong](https://www.linkedin.com/in/huynhvanvong/)
