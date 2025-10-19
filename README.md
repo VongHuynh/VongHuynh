@@ -9,6 +9,9 @@
 
 ### 🌐 Connect with Me
 <p align="left">
+  <a href="https://www.linkedin.com/in/huynhvanvong/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   <a href="https://fb.com/profile.php?id=100008001045345" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
@@ -21,15 +24,15 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <!-- Cloud -->
+  <!-- ☁️ Cloud -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   </a>
-  
-  <!-- DevOps -->
+
+  <!-- 🛠️ DevOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -39,11 +42,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
 
-  <!-- Backend -->
+  <!-- 🧑‍💻 Backend -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -53,11 +53,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
 
-  <!-- Frontend -->
+  <!-- 💻 Frontend -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -65,30 +62,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
-  <!-- Databases -->
+  <!-- 🗄️ Databases -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-
-  <!-- Others -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
 ### 💼 About Me
-- 🌱 I’m currently working with **Kubernetes**, **GCP**, and **AWS** to build scalable cloud-native systems.  
-- 🛠️ Experienced in **DevOps**, **CI/CD**, and **microservices architecture**.  
-- 👯 Looking to collaborate on **open-source** and **cloud infrastructure** projects.  
-- 📫 How to reach me: **huynhvanvong2002@gmail.com**  
+- 🌱 Currently working with **Kubernetes**, **GCP**, and **AWS** to build scalable cloud-native systems.  
+- 🛠️ Experienced in **DevOps**, **CI/CD**, **containerization**, and **microservices architecture**.  
+- 👯 Open to collaborating on **open-source** and **infrastructure automation** projects.  
+- 📫 How to reach me: **vong.huynh.dev@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/huynhvanvong](https://www.linkedin.com/in/huynhvanvong/)
 
 ---
 
