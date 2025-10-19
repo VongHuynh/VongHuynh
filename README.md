@@ -80,7 +80,7 @@
 - 🌱 Currently working with **Kubernetes**, **GCP**, and **AWS** to build scalable cloud-native systems.  
 - 🛠️ Experienced in **DevOps**, **CI/CD**, **containerization**, and **microservices architecture**.  
 - 👯 Open to collaborating on **open-source** and **infrastructure automation** projects.  
-- 📫 How to reach me: **vong.huynh.dev@gmail.com**  
+- 📫 How to reach me: **huynhvanvong2002@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/huynhvanvong](https://www.linkedin.com/in/huynhvanvong/)
 
 ---
