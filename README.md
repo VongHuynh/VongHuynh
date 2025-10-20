@@ -77,9 +77,6 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="Swagger" width="40" height="40"/>
   </a>
-  <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/tools/soapui-icon.svg" alt="SOAP" width="40" height="40"/>
-  </a>
 </p>
 
 ---
